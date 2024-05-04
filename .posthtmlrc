@@ -9,6 +9,19 @@
         "top": [],
         "body": [
           {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FOGMME3NDFBRPFBH2GH3KRKCFQ.jpg",
+              "caption": "<br>President Minouche Shafik walking away from Low Library on a closed campus on May 1.",
+              "credit": "Kelsea Petersen / Illustrations Editor"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>This article is a collaboration between the Columbia Daily Spectator and </i><a href=\"https://nymag.com/intelligencer/article/columbia-university-protests-students-survey-college-antisemitism.html\"><i>New York Magazine</i></a><i>. Get unlimited access to New York with a </i><a href=\"https://subs.nymag.com/magazine/subscribe/official-subscription-columbia-university.html?utm_source=partner&utm_medium=article_inline&utm_campaign=columbiaspectator_may2024\"><i>student subscription</i></a><i>.</i>"
+          },
+          {
             "type": "text",
             "value": "The <i>Columbia Daily Spectator</i> and <i>New York</i> Magazine conducted this unscientific poll between April 26 and May 2. Only active members of the university community, verified by email, were able to participate. Answers that do not sum to 100 percent indicate blank, neutral, or uncategorizable responses."
           },
@@ -24,7 +37,7 @@
           },
           {
             "type": "text",
-            "value": "Undergraduate student: <b>69%</b><br>Graduate student: <b>23%</b><br>Faculty or instructor: <b>5%</b><br>Staff: <b>3%</b><br>Administrator: <b>&lt1%</b>"
+            "value": "Undergraduate student: <b>69%</b>\u000bGraduate student: <b>23%</b>\u000bFaculty or instructor: <b>5%</b>\u000bStaff: <b>3%</b>\u000b﻿Administrator: <b><1%</b>"
           },
           {
             "type": "text",
@@ -32,7 +45,7 @@
           },
           {
             "type": "text",
-            "value": "Atheist or agnostic: <b>39%</b><br>Jewish: <b>35%</b><br>Christian: <b>15%</b><br>Muslim: <b>3%</b><br>Hindu: <b>2%</b><br>Buddhist: <b>1%</b><br>Other/prefer not to say: <b>5%</b>"
+            "value": "Atheist or agnostic: <b>39%</b>\u000bJewish: <b>35%</b>\u000bChristian: <b>15%</b>\u000bMuslim: <b>3%</b>\u000bHindu: <b>2%</b>\u000bBuddhist: <b>1%</b>\u000bOther/prefer not to say: <b>5%</b>"
           },
           {
             "type": "text",
@@ -40,7 +53,7 @@
           },
           {
             "type": "text",
-            "value": "Female: <b>61%</b><br>Male: <b>34%</b><br>Nonbinary: 4<b>%</b><br>Prefer not to say: <b>1%</b>"
+            "value": "Female: <b>61%</b>\u000bMale: <b>34%</b>\u000bNonbinary: 4<b>%</b>\u000bPrefer not to say: <b>1%</b>"
           },
           {
             "type": "text",
@@ -48,7 +61,7 @@
           },
           {
             "type": "text",
-            "value": "Very Conservative: <b>0%</b><br>Conservative: <b>5%</b><br>Moderate: <b>18%</b><br>Liberal: <b>40%</b><br>Leftist: <b>35%</b><br>Other/too complicated to explain: <b>2%</b>"
+            "value": "Very Conservative: <b>0%</b>\u000bConservative: <b>5%</b>\u000bModerate: <b>18%</b>\u000bLiberal: <b>40%</b>\u000bLeftist: <b>35%</b>\u000bOther/too complicated to explain: <b>2%</b>"
           },
           {
             "type": "graphic",
@@ -234,7 +247,7 @@
           },
           {
             "type": "text",
-            "value": "<b>What did you think of Minouche Shafik’s testimony before<br>Congress?</b>"
+            "value": "<b>What did you think of Minouche Shafik’s testimony before Congress?</b>"
           },
           {
             "type": "image",
@@ -247,7 +260,7 @@
           },
           {
             "type": "text",
-            "value": "<br><b>37%</b><b> </b>She said what was necessary to avoid Claudine Gay’s fate."
+            "value": "<b>37%</b><b> </b>She said what was necessary to avoid Claudine Gay’s fate."
           },
           {
             "type": "text",
@@ -299,7 +312,7 @@
           },
           {
             "type": "text",
-            "value": "<b>What do you think of her decision to authorize the NYPD to<br>arrest protestors?</b>"
+            "value": "<b>What do you think of her decision to authorize the NYPD to arrest protestors?</b>"
           },
           {
             "type": "image",
@@ -312,7 +325,7 @@
           },
           {
             "type": "text",
-            "value": "<br><b>57%</b><b> </b>The aggression was totally unwarranted."
+            "value": "<b>57%</b><b> </b>The aggression was totally unwarranted."
           },
           {
             "type": "text",
@@ -352,7 +365,7 @@
           },
           {
             "type": "text",
-            "value": "<b>32%</b> Yes. She’s stifling freedom of speech.<br><b>10%</b> Yes. She’s doing too little to combat antisemitism.<br><b>8%</b> Yes. For other reasons."
+            "value": "<b>32%</b> Yes. She’s stifling freedom of speech.\u000b<b>10%</b> Yes. She’s doing too little to combat antisemitism.\u000b<b>8%</b> Yes. For other reasons."
           },
           {
             "type": "text",
@@ -393,7 +406,7 @@
           },
           {
             "type": "text",
-            "value": "<br><b>50%</b><b> </b>It’s all I can think about."
+            "value": "<b>50%</b><b> </b>It’s all I can think about."
           },
           {
             "type": "text",
@@ -411,7 +424,7 @@
           },
           {
             "type": "text",
-            "value": "<b>How have the protests affected your friendships or romantic<br>life?</b>"
+            "value": "<b>How have the protests affected your friendships or romantic life?</b>"
           },
           {
             "type": "text",
@@ -439,7 +452,7 @@
           },
           {
             "type": "text",
-            "value": "<b>As you watch similar protests spread across the country from<br>Columbia, how do you feel?</b>"
+            "value": "<b>As you watch similar protests spread across the country from Columbia, how do you feel?</b>"
           },
           {
             "type": "text",
@@ -461,7 +474,7 @@
           },
           {
             "type": "text",
-            "value": "<b>Have you participated in any campus activism recently on<br>any side?</b>"
+            "value": "<b>Have you participated in any campus activism recently on any side?</b>"
           },
           {
             "type": "text",
@@ -495,7 +508,7 @@
           },
           {
             "type": "text",
-            "value": "<b>7%</b><b> </b>I wasn’t supportive at first — but after things escalated, I’m in favor."
+            "value": "<b>6</b><b>%</b><b> </b>I wasn’t supportive at first — but after things escalated, I’m in favor."
           },
           {
             "type": "text",
@@ -509,7 +522,7 @@
           },
           {
             "type": "text",
-            "value": "<b>The consequences protesters have faced — including arrests<br>and suspensions — are appropriate.</b>"
+            "value": "<b>The consequences protesters have faced — including arrests and suspensions — are appropriate.</b>"
           },
           {
             "type": "text",
@@ -581,7 +594,7 @@
           },
           {
             "type": "text",
-            "value": "<b>Students: </b><b> </b>What would you say to someone considering applying to Columbia?"
+            "value": "<b>Students:</b><b> </b>What would you say to someone considering applying to Columbia?"
           },
           {
             "type": "text",
@@ -595,7 +608,7 @@
           },
           {
             "type": "text",
-            "value": "<b>Administrators</b><b><i> </i></b>What do students misunderstand about Columbia, the institution?"
+            "value": "<b>Administrators:</b><b><i> </i></b>What do students misunderstand about Columbia, the institution?"
           },
           {
             "type": "text",
@@ -623,7 +636,7 @@
           },
           {
             "type": "text",
-            "value": "<b>If you could go back in time, would you still come to study or<br>work at Columbia?</b>"
+            "value": "<b>If you could go back in time, would you still come to study or work at Columbia?</b>"
           },
           {
             "type": "text",
